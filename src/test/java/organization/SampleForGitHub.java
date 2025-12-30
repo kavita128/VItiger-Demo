@@ -7,6 +7,7 @@ public class SampleForGitHub
 		System.out.println("hi GitHub");
 		System.out.println("hi kavita, just now i update this");
 		System.out.println("hi hi");
-		System.out.println("heyyyyyyyy u ca do it");
+		System.out.println("hi hi kavita");
+		System.out.println("hi hi kavi");
 	}
 }
